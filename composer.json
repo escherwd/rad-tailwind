@@ -1,0 +1,13 @@
+{
+    "require": {
+        "open-function-computers-llc/better-wordpress": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Helpers\\": "helpers/"
+        }
+    },
+    "scripts": {
+        "post-create-project-cmd": "ofc\\BetterWordpress::setup"
+    }
+}
