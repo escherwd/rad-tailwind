@@ -13,6 +13,6 @@
     "keywords": ["wordpress", "handlebars", "theme"],
     "minimum-stability": "stable",
     "scripts": {
-        "post-create-project-cmd": "ofc\\BetterWordpress::setup"
+        "post-create-project-cmd": "\\ofc\\BetterWordpress::setup"
     }
 }
