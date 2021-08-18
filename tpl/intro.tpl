@@ -7,6 +7,7 @@
                 <p>All template files need to be valid handlebars files, with tags that look like this:</p>
                 <hr />
                 <p>Today's date is {{#formatDate now }}.</p>
+                <hr />
             </div>
         </div>
     </div>
