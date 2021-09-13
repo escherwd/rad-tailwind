@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "3a469e988e5fa7bb513d0e1adc56c1ad",
+    "content-hash": "df436c9f21dd0fc340025b3f7be17eba",
     "packages": [
         {
             "name": "jjgrainger/posttypes",
@@ -46,26 +46,33 @@
             ],
             "description": "Simple WordPress custom post types.",
             "homepage": "https://github.com/jjgrainger/posttype",
+            "support": {
+                "issues": "https://github.com/jjgrainger/PostTypes/issues",
+                "source": "https://github.com/jjgrainger/PostTypes/tree/v2.1"
+            },
             "time": "2020-04-12T13:01:12+00:00"
         },
         {
             "name": "open-function-computers-llc/better-wordpress",
-            "version": "v1.0.18",
+            "version": "v1.0.20",
             "source": {
                 "type": "git",
                 "url": "https://github.com/open-function-computers-llc/better-wordpress.git",
-                "reference": "f0fb04352f2b83fdef85ce0d529b8649c6601d0d"
+                "reference": "abbb0aba65597fe5f4713754f205144060aae8db"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/open-function-computers-llc/better-wordpress/zipball/f0fb04352f2b83fdef85ce0d529b8649c6601d0d",
-                "reference": "f0fb04352f2b83fdef85ce0d529b8649c6601d0d",
+                "url": "https://api.github.com/repos/open-function-computers-llc/better-wordpress/zipball/abbb0aba65597fe5f4713754f205144060aae8db",
+                "reference": "abbb0aba65597fe5f4713754f205144060aae8db",
                 "shasum": ""
             },
             "require": {
                 "jjgrainger/posttypes": "^2.1",
                 "php": ">=7.4",
                 "salesforce/handlebars-php": "^2.3"
+            },
+            "require-dev": {
+                "phpunit/phpunit": "^9.5"
             },
             "type": "library",
             "autoload": {
@@ -83,7 +90,11 @@
                 "theme",
                 "wordpress"
             ],
-            "time": "2021-08-12T23:59:10+00:00"
+            "support": {
+                "issues": "https://github.com/open-function-computers-llc/better-wordpress/issues",
+                "source": "https://github.com/open-function-computers-llc/better-wordpress/tree/v1.0.20"
+            },
+            "time": "2021-09-08T21:26:26+00:00"
         },
         {
             "name": "salesforce/handlebars-php",
@@ -136,6 +147,10 @@
                 "mustache",
                 "templating"
             ],
+            "support": {
+                "issues": "https://github.com/salesforce/handlebars-php/issues",
+                "source": "https://github.com/salesforce/handlebars-php/tree/2.3.0"
+            },
             "time": "2020-06-08T17:23:52+00:00"
         }
     ],
@@ -147,5 +162,5 @@
     "prefer-lowest": false,
     "platform": [],
     "platform-dev": [],
-    "plugin-api-version": "1.1.0"
+    "plugin-api-version": "2.1.0"
 }
