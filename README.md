@@ -29,6 +29,18 @@ And that's it! Read about what to do next on [the docs](https://better-wordpress
 
 <br>
 
+## Security notes
+
+The /vendor directory is blocked from public access by Apache by the included .htaccess file. 
+If you're using NGINX, you can add this to your virtual host 
+
+```
+    location ^~ /vendor/ {
+        deny all;
+        return 403;
+    }
+```
+
 ## License
 
 Licensed under the MIT license, see [LICENSE](https://github.com/open-function-computers-llc/wp-theme/blob/main/LICENSE).
