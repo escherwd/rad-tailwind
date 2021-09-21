@@ -1,6 +1,6 @@
 # Starter Theme 
 <a href="https://github.com/open-function-computers-llc/better-wordpress">
-<img width="250" align="right" src="https://better-wordpress.ofco.cloud/images/branding/bw.png">
+<img width="250" align="right" src="https://better-wordpress.ofco.cloud/images/branding/horizontal-logo.png">
 </a>
 
 This repository contains the files that `composer create` will download into your new __[better-wordpress](https://github.com/open-function-computers-llc/better-wordpress)__ theme.
