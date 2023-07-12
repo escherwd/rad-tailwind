@@ -1,12 +1,12 @@
 # Starter Theme 
 <a href="https://github.com/open-function-computers-llc/rad-theme-engine">
-<img width="250" align="right" src="https://better-wordpress.ofco.cloud/images/branding/horizontal-logo.png">
+<img width="250" align="right" src="images/RADLogos/RAD-Logo-2-OFCO.png">
 </a>
 
-This repository contains the files that `composer create` will download into your new __[better-wordpress](https://github.com/open-function-computers-llc/rad-theme-engine)__ theme.
+This repository contains the files that `composer create` will download into your new __[rad-theme-engine](https://github.com/open-function-computers-llc/rad-theme-engine)__ theme.
 
 📦 &nbsp;[View on Packagist](https://packagist.org/packages/open-function-computers-llc/rad-theme-engine) <br>
-📃 &nbsp;[Read the Docs](https://better-wordpress.ofco.cloud/)
+📃 &nbsp;[Read the Docs](https://rad-theme-engine.ofco.cloud/)
 
 <br>
 

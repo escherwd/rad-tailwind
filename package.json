@@ -1,7 +1,7 @@
 {
   "name": "ofc-wp-theme",
   "version": "1.0.0",
-  "description": "Laravel Mix Asset Bundler for open-function-computers-llc/better-wordpress",
+  "description": "Laravel Mix Asset Bundler for open-function-computers-llc/rad-theme-engine",
   "dependencies": {
     "bootstrap": "^5.0.1",
     "jquery": "^3.6.0",
