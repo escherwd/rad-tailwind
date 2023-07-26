@@ -1,8 +1,8 @@
 {
     "name": "open-function-computers-llc/wp-theme",
-    "description": "A starting point to make working with better-wordpress easier",
+    "description": "A starting point to make working with rad-theme-engine easier",
     "require": {
-        "open-function-computers-llc/better-wordpress": "^1.0"
+        "open-function-computers-llc/rad-theme-engine": "^1.0"
     },
     "autoload": {
         "psr-4": {
