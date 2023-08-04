@@ -4,52 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <!-- <link rel="stylesheet" type="text/css" href="style.css" /> -->
-    <style>
-        @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,400;1,500&display=swap");
-
-
-        .title-logo {
-            max-width: 350px;
-            width: 100%;
-        }
-
-        body{
-            text-align: center;
-            background-color: #212529;
-        }
-        p{
-            font-family:"Roboto", sans-serif;
-            color:lightgray;
-        }
-        h1{
-            font-family:"Roboto", sans-serif;
-            color:#ee0099;
-            font-style: italic;
-            text-decoration: none;
-            font-size:3em;
-        }
-        h2{
-            font-family:"Roboto", sans-serif;
-            color:lightgray;
-        }
-        #rad-tag{
-            font-family:"Roboto", sans-serif;
-            font-weight: bold;
-            /* font-style: italic; */
-            color: lightgray;
-        }
-        a {
-            text-decoration: none;
-        }
-
-        .bottom-link{
-            color: #ee0099;
-        }
-        hr {
-            border-color: #343a40;
-        }
-    </style>
+    <link rel="stylesheet" type="text/css" href="wp-content/themes/testTheme/style.css" />
     <!-- <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700;800&family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,400;1,500&display=swap"/> -->
 </head>
 <body>
