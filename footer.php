@@ -1,6 +1,8 @@
 <?php
-
-wp_footer();
+// This file should close out the <body> tag and will be used by WordPress
+// at the end of each page render. Make sure your handlebars template includes
+// the helper {{#wp-footer}} otherwise you should call wp_footer() here in the
+// php file.
 
 echo site()->render("footer", [
     "powered-by" => "ofco-rad-theme-engine",

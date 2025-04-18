@@ -1,11 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title><?php wp_title('|', true, 'right'); ?></title>
+<?php
+// This file will build the HTML <head> section like a typical custom WordPress
+// theme. It will also include the opening body tag, and all expected function
+// calls are handled for you by the custom Handlerbar helpers that come with
+// RAD. Check out the docs here:
+// https://rad-theme-engine.ofco.cloud/docs/guides/helpers/
 
-    <?php wp_head(); ?>
-</head>
-<body <?php body_class(); ?>>
+echo site()->render("header");
