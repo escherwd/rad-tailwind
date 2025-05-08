@@ -57,16 +57,16 @@
         },
         {
             "name": "open-function-computers-llc/rad-theme-engine",
-            "version": "v1.0.25",
+            "version": "v1.0.27",
             "source": {
                 "type": "git",
                 "url": "https://github.com/open-function-computers-llc/rad-theme-engine.git",
-                "reference": "59e337a405555e2eff7aca8de1da9714077aab96"
+                "reference": "00e8a6578957831d8857a411f2e7d52f6be597e3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/open-function-computers-llc/rad-theme-engine/zipball/59e337a405555e2eff7aca8de1da9714077aab96",
-                "reference": "59e337a405555e2eff7aca8de1da9714077aab96",
+                "url": "https://api.github.com/repos/open-function-computers-llc/rad-theme-engine/zipball/00e8a6578957831d8857a411f2e7d52f6be597e3",
+                "reference": "00e8a6578957831d8857a411f2e7d52f6be597e3",
                 "shasum": ""
             },
             "require": {
@@ -95,9 +95,9 @@
             ],
             "support": {
                 "issues": "https://github.com/open-function-computers-llc/rad-theme-engine/issues",
-                "source": "https://github.com/open-function-computers-llc/rad-theme-engine/tree/v1.0.25"
+                "source": "https://github.com/open-function-computers-llc/rad-theme-engine/tree/v1.0.27"
             },
-            "time": "2024-01-25T19:02:08+00:00"
+            "time": "2025-05-08T04:01:47+00:00"
         },
         {
             "name": "salesforce/handlebars-php",
