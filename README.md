@@ -1,6 +1,6 @@
 # Tailwind Starter Theme 
 <a href="https://github.com/open-function-computers-llc/rad-theme-engine">
-<img width="250" align="right" src="images/RAD_Tailwind_logo.png">
+<img width="320" align="right" src="images/RAD_Tailwind_logo.png">
 </a>
 
 This repository contains the files that `composer create` will download into your new __[rad-theme-engine](https://github.com/open-function-computers-llc/rad-theme-engine)__ theme.
@@ -18,6 +18,8 @@ This repository contains the files that `composer create` will download into you
     - Tailwind CSS ^4
     - PostCSS ^8.5
     - Laravel Mix ^6
+
+<br>
 
 ## Usage
 
