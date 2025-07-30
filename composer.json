@@ -1,5 +1,5 @@
 {
-    "name": "open-function-computers-llc/wp-theme",
+    "name": "escherwd/rad-tailwind",
     "description": "A starting point to make working with rad-theme-engine easier",
     "require": {
         "open-function-computers-llc/rad-theme-engine": "^1.0"
@@ -10,6 +10,6 @@
         }
     },
     "license": "MIT",
-    "keywords": ["wordpress", "handlebars", "theme"],
+    "keywords": ["wordpress", "handlebars", "theme", "tailwind"],
     "minimum-stability": "stable"
 }
